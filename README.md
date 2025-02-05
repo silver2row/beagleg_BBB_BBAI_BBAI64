@@ -3,6 +3,12 @@ BeagleG
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/hzeller/beagleg/blob/main/LICENSE) &nbsp;
 
+Currently:
+
+I am building this repository with this image: https://www.beagleboard.org/distros/am335x-11-7-2023-09-02-4gb-microsd-iot
+
+I have been using the UIO .dtbo file and PRU chips to handle quickly accessing GPIO pins.
+
 Step-motor controller for CNC-like devices (or 3D printers) using the
 PRU (Programmable Realtime Unit) of the Beaglebone Black to create precisely
 timed and fast stepper-pulses for acceleration and travel.
